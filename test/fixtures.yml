@@ -21,6 +21,15 @@ authorize_net:
   login: 7Tt72zseSzH
   password: 7gTh55rdy92ZkP4z
 
+# Working credentials, no need to replace
+# TODO: Clarify
+# http://sandbox.asgateway.com/setup
+# merchant = login obtained on the above page
+# secret = password obtained on the above page
+awesomesauce:
+  merchant: sandbox-api
+  secret: b5639bf022eb5504020ac7bd328dee7c4a9db70e7dbd97a5393b06df587b13719ba50b373305c48e
+
 axcessms:
   channel: channel
   sender: sender
